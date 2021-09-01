@@ -30,7 +30,7 @@ the latest release of Tekton on your Kubernetes cluster, including the
 
 #### 200 Running on Local Server
 
-If you would like to complete this tutorial on your local workstation, see [Running this tutorial locally](#running-this-tutorial-locally). 
+To run this tutorial on your local workstation, see the docs for [setting up your local environment](https://github.com/tektoncd/pipeline/blob/main/docs/developers/local-setup.md).
 
 To learn more about the Tekton entities involved in this tutorial, see [Further reading](#further-reading).
 
