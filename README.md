@@ -3,7 +3,7 @@ tekton-headstart
 
 Based on "Tekton Pipelines Tutorial" at https://github.com/tektoncd/pipeline/blob/main/docs/tutorial.md
 
-# Tekton Pipelines Tutorial
+## 100 Tekton Pipelines Tutorial
 
 This tutorial uses a simple `Hello World` example to show you how to:
 - Create a `Task`
@@ -20,8 +20,21 @@ This tutorial consists of the following sections:
 This includes Docker registries, log output locations, and other configuration items
 specific to a given cloud computing service.
 
-## Before you begin
+### 200 Before you begin
 
+#### 100 Running on Remote Server
+
+Before you begin this tutorial, make sure you have [installed and configured](https://github.com/tektoncd/pipeline/blob/main/docs/install.md)
+the latest release of Tekton on your Kubernetes cluster, including the
+[Tekton CLI](https://github.com/tektoncd/cli).
+
+#### 200 Running on Local Server
+
+If you would like to complete this tutorial on your local workstation, see [Running this tutorial locally](#running-this-tutorial-locally). 
+
+To learn more about the Tekton entities involved in this tutorial, see [Further reading](#further-reading).
+
+## Creating and running a `Task`
 
 
 More ...
